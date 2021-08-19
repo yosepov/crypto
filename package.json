@@ -9,6 +9,11 @@
   "author": "Erez Yosepov",
   "license": "ISC",
   "devDependencies": {
+    "yargs-parser": ">=13.1.2",
+    "node-notifier": ">=8.0.1",
+    "glob-parent": ">=5.1.2",
+    "braces": ">=2.3.1",
+    "merge": ">=2.1.1",
     "jest": "^23.6.0"
   }
 }
